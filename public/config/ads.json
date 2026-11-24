@@ -1,0 +1,62 @@
+{
+  "disableAllAds": false,
+  "showPlaceholders": true,
+  "slots": {
+    "topLeaderboard": {
+      "enabled": true,
+      "label": "Top Leaderboard Banner (728x90 / 970x90)",
+      "script": ""
+    },
+    "inFeedNative": {
+      "enabled": true,
+      "label": "In-Feed / Native Grid Card Ad",
+      "script": ""
+    },
+    "detailsMiddleBanner": {
+      "enabled": true,
+      "label": "App Details Middle Banner (300x250 / 336x280)",
+      "script": ""
+    },
+    "step2VerificationBanner": {
+      "enabled": true,
+      "label": "Download Step 2 Verification Banner (728x90 & 300x250)",
+      "script": ""
+    },
+    "step3MirrorBanner": {
+      "enabled": true,
+      "label": "Download Step 3 Mirror Banner (728x90 & 300x250)",
+      "script": ""
+    },
+    "stickyFooterBanner": {
+      "enabled": false,
+      "label": "Sticky Footer Banner (728x90 / 320x50)",
+      "script": ""
+    },
+    "socialBar": {
+      "enabled": false,
+      "label": "Social Bar Script",
+      "script": ""
+    },
+    "inPagePush": {
+      "enabled": false,
+      "label": "In-Page Push Script",
+      "script": ""
+    },
+    "interstitial": {
+      "enabled": false,
+      "label": "Interstitial Script",
+      "script": ""
+    },
+    "popunder": {
+      "enabled": false,
+      "label": "Popunder Script (Default OFF)",
+      "script": ""
+    },
+    "directSmartlink": {
+      "enabled": false,
+      "label": "Direct / Smartlink URL + Label",
+      "url": "",
+      "buttonLabel": "Open Fast Cloud Mirror"
+    }
+  }
+}
